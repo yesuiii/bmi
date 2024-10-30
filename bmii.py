@@ -34,3 +34,5 @@ if not st.session_state.data.empty:
     st.pyplot(fig)
 else:
     st.write("No data to plot yet.")
+
+#boloodohooch
